@@ -241,6 +241,12 @@
       "wash": ["ORGANIC"]
     },
     {
+      "date": "2026-06-20",
+      "waste": [
+        "ORGANIC"
+      ]
+    },
+    {
       "date": "2026-06-24",
       "waste": [
         "PAPER",
