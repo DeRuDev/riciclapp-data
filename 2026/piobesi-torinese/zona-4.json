@@ -1,5 +1,980 @@
 {
-  "municipality": "Piobesi Torinese",
+  "municipality": "Piobesi",
   "zone": "Zona 4",
-  "collections": []
+  "collections": [
+    {
+      "date": "2026-03-02",
+      "waste": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "date": "2026-03-05",
+      "waste": [
+        "ORGANIC",
+        "PLASTIC_METAL",
+        "GENERIC"
+      ]
+    },
+    {
+      "date": "2026-03-07",
+      "waste": [
+        "GREEN"
+      ]
+    },
+    {
+      "date": "2026-03-09",
+      "waste": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "date": "2026-03-12",
+      "waste": [
+        "PAPER",
+        "ORGANIC",
+        "GENERIC",
+        "GLASS"
+      ],
+      "wash": [
+        "ORGANIC",
+        "GENERIC",
+        "GLASS"
+      ]
+    },
+    {
+      "date": "2026-03-16",
+      "waste": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "date": "2026-03-19",
+      "waste": [
+        "ORGANIC",
+        "PLASTIC_METAL",
+        "GENERIC"
+      ]
+    },
+    {
+      "date": "2026-03-21",
+      "waste": [
+        "GREEN"
+      ]
+    },
+    {
+      "date": "2026-03-23",
+      "waste": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "date": "2026-03-26",
+      "waste": [
+        "PAPER",
+        "ORGANIC",
+        "GENERIC"
+      ]
+    },
+    {
+      "date": "2026-03-28",
+      "waste": [
+        "GREEN"
+      ]
+    },
+    {
+      "date": "2026-03-30",
+      "waste": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "date": "2026-04-02",
+      "waste": [
+        "ORGANIC",
+        "PLASTIC_METAL",
+        "GENERIC"
+      ]
+    },
+    {
+      "date": "2026-04-07",
+      "waste": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "date": "2026-04-09",
+      "waste": [
+        "PAPER",
+        "ORGANIC",
+        "GENERIC",
+        "GLASS"
+      ]
+    },
+    {
+      "date": "2026-04-11",
+      "waste": [
+        "GREEN"
+      ]
+    },
+    {
+      "date": "2026-04-13",
+      "waste": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "date": "2026-04-16",
+      "waste": [
+        "ORGANIC",
+        "PLASTIC_METAL",
+        "GENERIC"
+      ]
+    },
+    {
+      "date": "2026-04-18",
+      "waste": [
+        "GREEN"
+      ]
+    },
+    {
+      "date": "2026-04-20",
+      "waste": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "date": "2026-04-23",
+      "waste": [
+        "PAPER",
+        "ORGANIC",
+        "GENERIC"
+      ]
+    },
+    {
+      "date": "2026-04-27",
+      "waste": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "date": "2026-04-30",
+      "waste": [
+        "ORGANIC",
+        "PLASTIC_METAL",
+        "GENERIC"
+      ]
+    },
+    {
+      "date": "2026-05-04",
+      "waste": [
+        "ORGANIC",
+        "GREEN"
+      ]
+    },
+    {
+      "date": "2026-05-07",
+      "waste": [
+        "PAPER",
+        "ORGANIC",
+        "GENERIC",
+        "GLASS"
+      ]
+    },
+    {
+      "date": "2026-05-09",
+      "waste": [
+        "GREEN"
+      ]
+    },
+    {
+      "date": "2026-05-11",
+      "waste": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "date": "2026-05-14",
+      "waste": [
+        "ORGANIC",
+        "PLASTIC_METAL",
+        "GENERIC"
+      ]
+    },
+    {
+      "date": "2026-05-16",
+      "waste": [
+        "GREEN"
+      ]
+    },
+    {
+      "date": "2026-05-18",
+      "waste": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "date": "2026-05-21",
+      "waste": [
+        "PAPER",
+        "ORGANIC",
+        "GENERIC"
+      ]
+    },
+    {
+      "date": "2026-05-23",
+      "waste": [
+        "GREEN"
+      ]
+    },
+    {
+      "date": "2026-05-25",
+      "waste": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "date": "2026-05-28",
+      "waste": [
+        "ORGANIC",
+        "PLASTIC_METAL",
+        "GENERIC"
+      ]
+    },
+    {
+      "date": "2026-05-30",
+      "waste": [
+        "GREEN"
+      ]
+    },
+    {
+      "date": "2026-06-01",
+      "waste": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "date": "2026-06-04",
+      "waste": [
+        "PAPER",
+        "ORGANIC",
+        "GENERIC",
+        "GLASS"
+      ]
+    },
+    {
+      "date": "2026-06-06",
+      "waste": [
+        "GREEN"
+      ]
+    },
+    {
+      "date": "2026-06-08",
+      "waste": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "date": "2026-06-11",
+      "waste": [
+        "ORGANIC",
+        "PLASTIC_METAL",
+        "GENERIC"
+      ]
+    },
+    {
+      "date": "2026-06-13",
+      "waste": [
+        "GREEN"
+      ]
+    },
+    {
+      "date": "2026-06-15",
+      "waste": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "date": "2026-06-18",
+      "waste": [
+        "PAPER",
+        "ORGANIC",
+        "GENERIC"
+      ]
+    },
+    {
+      "date": "2026-06-20",
+      "waste": [
+        "GREEN"
+      ]
+    },
+    {
+      "date": "2026-06-22",
+      "waste": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "date": "2026-06-25",
+      "waste": [
+        "ORGANIC",
+        "PLASTIC_METAL",
+        "GENERIC"
+      ]
+    },
+    {
+      "date": "2026-06-27",
+      "waste": [
+        "GREEN"
+      ]
+    },
+    {
+      "date": "2026-06-29",
+      "waste": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "waste": [
+        "PAPER",
+        "ORGANIC",
+        "GENERIC",
+        "GLASS"
+      ],
+      "wash": [
+        "ORGANIC",
+        "GENERIC",
+        "GLASS"
+      ]
+    },
+    {
+      "date": "2026-07-04",
+      "waste": [
+        "GREEN"
+      ]
+    },
+    {
+      "date": "2026-07-06",
+      "waste": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "date": "2026-07-09",
+      "waste": [
+        "ORGANIC",
+        "PLASTIC_METAL",
+        "GENERIC"
+      ]
+    },
+    {
+      "date": "2026-07-11",
+      "waste": [
+        "GREEN"
+      ]
+    },
+    {
+      "date": "2026-07-13",
+      "waste": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "date": "2026-07-16",
+      "waste": [
+        "PAPER",
+        "ORGANIC",
+        "GENERIC"
+      ]
+    },
+    {
+      "date": "2026-07-18",
+      "waste": [
+        "GREEN"
+      ]
+    },
+    {
+      "date": "2026-07-20",
+      "waste": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "date": "2026-07-23",
+      "waste": [
+        "ORGANIC",
+        "PLASTIC_METAL",
+        "GENERIC"
+      ]
+    },
+    {
+      "date": "2026-07-25",
+      "waste": [
+        "GREEN"
+      ]
+    },
+    {
+      "date": "2026-07-27",
+      "waste": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "date": "2026-07-30",
+      "waste": [
+        "PAPER",
+        "ORGANIC",
+        "GENERIC",
+        "GLASS"
+      ]
+    },
+    {
+      "date": "2026-08-01",
+      "waste": [
+        "GREEN"
+      ]
+    },
+    {
+      "date": "2026-08-03",
+      "waste": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "date": "2026-08-06",
+      "waste": [
+        "ORGANIC",
+        "PLASTIC_METAL",
+        "GENERIC"
+      ]
+    },
+    {
+      "date": "2026-08-08",
+      "waste": [
+        "GREEN"
+      ]
+    },
+    {
+      "date": "2026-08-10",
+      "waste": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "date": "2026-08-13",
+      "waste": [
+        "PAPER",
+        "ORGANIC",
+        "GENERIC"
+      ]
+    },
+    {
+      "date": "2026-08-17",
+      "waste": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "date": "2026-08-20",
+      "waste": [
+        "ORGANIC",
+        "PLASTIC_METAL",
+        "GENERIC"
+      ]
+    },
+    {
+      "date": "2026-08-22",
+      "waste": [
+        "GREEN"
+      ]
+    },
+    {
+      "date": "2026-08-24",
+      "waste": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "date": "2026-08-27",
+      "waste": [
+        "PAPER",
+        "ORGANIC",
+        "GENERIC",
+        "GLASS"
+      ]
+    },
+    {
+      "date": "2026-08-29",
+      "waste": [
+        "GREEN"
+      ]
+    },
+    {
+      "date": "2026-08-31",
+      "waste": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "waste": [
+        "ORGANIC",
+        "PLASTIC_METAL",
+        "GENERIC"
+      ]
+    },
+    {
+      "date": "2026-09-05",
+      "waste": [
+        "GREEN"
+      ]
+    },
+    {
+      "date": "2026-09-07",
+      "waste": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "date": "2026-09-10",
+      "waste": [
+        "PAPER",
+        "ORGANIC",
+        "GENERIC"
+      ]
+    },
+    {
+      "date": "2026-09-12",
+      "waste": [
+        "GREEN"
+      ]
+    },
+    {
+      "date": "2026-09-14",
+      "waste": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "date": "2026-09-17",
+      "waste": [
+        "ORGANIC",
+        "PLASTIC_METAL",
+        "GENERIC"
+      ]
+    },
+    {
+      "date": "2026-09-19",
+      "waste": [
+        "GREEN"
+      ]
+    },
+    {
+      "date": "2026-09-21",
+      "waste": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "date": "2026-09-24",
+      "waste": [
+        "PAPER",
+        "ORGANIC",
+        "GENERIC",
+        "GLASS"
+      ]
+    },
+    {
+      "date": "2026-09-26",
+      "waste": [
+        "GREEN"
+      ]
+    },
+    {
+      "date": "2026-09-28",
+      "waste": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "waste": [
+        "ORGANIC",
+        "PLASTIC_METAL",
+        "GENERIC"
+      ]
+    },
+    {
+      "date": "2026-10-03",
+      "waste": [
+        "GREEN"
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "waste": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "waste": [
+        "PAPER",
+        "ORGANIC",
+        "GENERIC"
+      ]
+    },
+    {
+      "date": "2026-10-10",
+      "waste": [
+        "GREEN"
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "waste": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "waste": [
+        "ORGANIC",
+        "PLASTIC_METAL",
+        "GENERIC"
+      ]
+    },
+    {
+      "date": "2026-10-17",
+      "waste": [
+        "GREEN"
+      ]
+    },
+    {
+      "date": "2026-10-19",
+      "waste": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "date": "2026-10-22",
+      "waste": [
+        "PAPER",
+        "ORGANIC",
+        "GENERIC",
+        "GLASS"
+      ]
+    },
+    {
+      "date": "2026-10-24",
+      "waste": [
+        "GREEN"
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "waste": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "waste": [
+        "ORGANIC",
+        "PLASTIC_METAL",
+        "GENERIC"
+      ]
+    },
+    {
+      "date": "2026-10-31",
+      "waste": [
+        "GREEN"
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "waste": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "date": "2026-11-05",
+      "waste": [
+        "PAPER",
+        "ORGANIC",
+        "GENERIC"
+      ]
+    },
+    {
+      "date": "2026-11-07",
+      "waste": [
+        "GREEN"
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "waste": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "waste": [
+        "ORGANIC",
+        "PLASTIC_METAL",
+        "GENERIC"
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "waste": [
+        "GREEN"
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "waste": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "waste": [
+        "PAPER",
+        "ORGANIC",
+        "GENERIC",
+        "GLASS"
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "waste": [
+        "GREEN"
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "waste": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "date": "2026-11-26",
+      "waste": [
+        "ORGANIC",
+        "PLASTIC_METAL",
+        "GENERIC"
+      ]
+    },
+    {
+      "date": "2026-11-28",
+      "waste": [
+        "GREEN"
+      ]
+    },
+    {
+      "date": "2026-11-30",
+      "waste": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "date": "2026-12-03",
+      "waste": [
+        "PAPER",
+        "ORGANIC",
+        "GENERIC"
+      ]
+    },
+    {
+      "date": "2026-12-07",
+      "waste": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "date": "2026-12-10",
+      "waste": [
+        "ORGANIC",
+        "PLASTIC_METAL",
+        "GENERIC"
+      ]
+    },
+    {
+      "date": "2026-12-12",
+      "waste": [
+        "GREEN"
+      ]
+    },
+    {
+      "date": "2026-12-14",
+      "waste": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "date": "2026-12-17",
+      "waste": [
+        "PAPER",
+        "ORGANIC",
+        "GENERIC",
+        "GLASS"
+      ]
+    },
+    {
+      "date": "2026-12-21",
+      "waste": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "date": "2026-12-24",
+      "waste": [
+        "ORGANIC",
+        "PLASTIC_METAL",
+        "GENERIC"
+      ]
+    },
+    {
+      "date": "2026-12-28",
+      "waste": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "date": "2026-12-31",
+      "waste": [
+        "PAPER",
+        "ORGANIC",
+        "GENERIC"
+      ]
+    },
+    {
+      "date": "2027-01-04",
+      "waste": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "date": "2027-01-07",
+      "waste": [
+        "ORGANIC",
+        "PLASTIC_METAL",
+        "GENERIC"
+      ]
+    },
+    {
+      "date": "2027-01-11",
+      "waste": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "date": "2027-01-14",
+      "waste": [
+        "PAPER",
+        "ORGANIC",
+        "GENERIC",
+        "GLASS"
+      ]
+    },
+    {
+      "date": "2027-01-16",
+      "waste": [
+        "GREEN"
+      ]
+    },
+    {
+      "date": "2027-01-18",
+      "waste": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "date": "2027-01-21",
+      "waste": [
+        "ORGANIC",
+        "PLASTIC_METAL",
+        "GENERIC"
+      ]
+    },
+    {
+      "date": "2027-01-25",
+      "waste": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "date": "2027-01-28",
+      "waste": [
+        "PAPER",
+        "ORGANIC",
+        "GENERIC"
+      ]
+    },
+    {
+      "date": "2027-02-01",
+      "waste": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "date": "2027-02-04",
+      "waste": [
+        "ORGANIC",
+        "PLASTIC_METAL",
+        "GENERIC"
+      ]
+    },
+    {
+      "date": "2027-02-08",
+      "waste": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "date": "2027-02-11",
+      "waste": [
+        "PAPER",
+        "ORGANIC",
+        "GENERIC",
+        "GLASS"
+      ]
+    },
+    {
+      "date": "2027-02-13",
+      "waste": [
+        "GREEN"
+      ]
+    },
+    {
+      "date": "2027-02-15",
+      "waste": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "date": "2027-02-18",
+      "waste": [
+        "ORGANIC",
+        "PLASTIC_METAL",
+        "GENERIC"
+      ]
+    },
+    {
+      "date": "2027-02-22",
+      "waste": [
+        "ORGANIC"
+      ]
+    },
+    {
+      "date": "2027-02-25",
+      "waste": [
+        "PAPER",
+        "ORGANIC",
+        "GENERIC"
+      ]
+    }
+  ]
 }
